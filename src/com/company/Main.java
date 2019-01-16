@@ -38,7 +38,7 @@ public class Main {
         System.out.println("if temperature is:"+Temperature +"   too cold");
         System.out.println("the Auther is"+firstName+" "+lastName);
 
-        System.out.println("Hello World");
+//        System.out.println("Hello World");
         System.out.println("Today is  16th January 2019");
         System.out.println("My name is TRI." + name);
         System.out.println(name);
